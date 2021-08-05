@@ -1,0 +1,11 @@
+{
+  "name": "Tokemak",
+  "symbol": "TOKE",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://tokemak.xyz",
+  "explorer": "https://etherscan.io/token/0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+  "status": "active",
+  "id": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94"
+}
